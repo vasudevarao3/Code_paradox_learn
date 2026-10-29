@@ -4,12 +4,12 @@ Tick `[x]` as you finish each day. Plan details: [80-Day Plan](<80-Day%20Plan%20
 
 ## Phase 0: Kickoff (day 1)
 
-- [ ] Day 1 · Sun Oct 25 · 1 hr · Kickoff: skim all three tracks on Learning, create your notes doc with the 3-bullet template, bookmark Roadmaps to watch the solved counters
+- [X] Day 1 · Sun Oct 25 · 1 hr · Kickoff: skim all three tracks on Learning, create your notes doc with the 3-bullet template, bookmark Roadmaps to watch the solved counters
 
 ## Phase 1: Software System Design (days 2-43)
 
-- [ ] Day 2 · Mon Oct 26 · 1 hr · Servers & Compute: chapters 1 to 8
-- [ ] Day 3 · Tue Oct 27 · 1 hr · Servers & Compute: chapters 9 to 16
+- [X] Day 2 · Mon Oct 26 · 1 hr · Servers & Compute: chapters 1 to 8
+- [X] Day 3 · Tue Oct 27 · 1 hr · Servers & Compute: chapters 9 to 16
 - [ ] Day 4 · Wed Oct 28 · 1 hr · Load Balancers & Traffic Routing: chapters 1 to 9
 - [ ] Day 5 · Thu Oct 29 · 1 hr · Application State & Sessions: chapters 1 to 9
 - [ ] Day 6 · Fri Oct 30 · 1 hr · Servers & Compute: 4 labs
