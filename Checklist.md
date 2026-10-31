@@ -10,8 +10,8 @@ Tick `[x]` as you finish each day. Plan details: [80-Day Plan](<80-Day%20Plan%20
 
 - [X] Day 2 · Mon Oct 26 · 1 hr · Servers & Compute: chapters 1 to 8
 - [X] Day 3 · Tue Oct 27 · 1 hr · Servers & Compute: chapters 9 to 16
-- [ ] Day 4 · Wed Oct 28 · 1 hr · Load Balancers & Traffic Routing: chapters 1 to 9
-- [ ] Day 5 · Thu Oct 29 · 1 hr · Application State & Sessions: chapters 1 to 9
+- [X] Day 4 · Wed Oct 28 · 1 hr · Load Balancers & Traffic Routing: chapters 1 to 9
+- [X] Day 5 · Thu Oct 29 · 1 hr · Application State & Sessions: chapters 1 to 9
 - [ ] Day 6 · Fri Oct 30 · 1 hr · Servers & Compute: 4 labs
 - [ ] Day 7 · Sat Oct 31 · 1.5 hr · Load Balancers: 4 labs, then redraw client to load balancer to servers to session store from memory
 - [ ] Day 8 · Sun Nov 1 · 1 hr · Application State: 4 labs, then 10-minute week review
