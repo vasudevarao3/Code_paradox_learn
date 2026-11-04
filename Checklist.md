@@ -15,7 +15,7 @@ Tick `[x]` as you finish each day. Plan details: [80-Day Plan](<80-Day%20Plan%20
 - [X] Day 6 · Fri Oct 30 · 1 hr · Servers & Compute: 4 labs
 - [X] Day 7 · Sat Oct 31 · 1.5 hr · Load Balancers: 4 labs, then redraw client to load balancer to servers to session store from memory
 - [X] Day 8 · Sun Nov 1 · 1 hr · Application State: 4 labs, then 10-minute week review
-- [ ] Day 9 · Mon Nov 2 · 1 hr · Relational Databases: chapters 1 to 9
+- [X] Day 9 · Mon Nov 2 · 1 hr · Relational Databases: chapters 1 to 9
 - [ ] Day 10 · Tue Nov 3 · 1 hr · Database Scaling & Replication: chapters 1 to 9
 - [ ] Day 11 · Wed Nov 4 · 1 hr · Partitioning & Sharding: chapters 1 to 9
 - [ ] Day 12 · Thu Nov 5 · 1 hr · Object Storage & File Systems: chapters 1 to 9
