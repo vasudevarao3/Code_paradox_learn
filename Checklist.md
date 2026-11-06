@@ -18,7 +18,7 @@ Tick `[x]` as you finish each day. Plan details: [80-Day Plan](<80-Day%20Plan%20
 - [X] Day 9 · Mon Nov 2 · 1 hr · Relational Databases: chapters 1 to 9
 - [X] Day 10 · Tue Nov 3 · 1 hr · Database Scaling & Replication: chapters 1 to 9
 - [X] Day 11 · Wed Nov 4 · 1 hr · Partitioning & Sharding: chapters 1 to 9
-- [ ] Day 12 · Thu Nov 5 · 1 hr · Object Storage & File Systems: chapters 1 to 9
+- [X] Day 12 · Thu Nov 5 · 1 hr · Object Storage & File Systems: chapters 1 to 9
 - [ ] Day 13 · Fri Nov 6 · 1 hr · Relational Databases: 4 labs
 - [ ] Day 14 · Sat Nov 7 · 2 hr · Database Scaling & Replication: 4 labs, then Partitioning & Sharding: 4 labs
 - [ ] Day 15 · Sun Nov 8 · 1 hr · Object Storage & File Systems: 4 labs, then 10-minute week review
