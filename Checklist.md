@@ -23,8 +23,8 @@ Tick `[x]` as you finish each day. Plan details: [80-Day Plan](<80-Day%20Plan%20
 - [X] Day 14 · Sat Nov 7 · 2 hr · Database Scaling & Replication: 4 labs, then Partitioning & Sharding: 4 labs
 - [X] Day 15 · Sun Nov 8 · 1 hr · Object Storage & File Systems: 4 labs, then 10-minute week review
 - [X] Day 16 · Mon Nov 9 · 1 hr · Caching: chapters 1 to 9
-- [ ] Day 17 · Tue Nov 10 · 1 hr · CDNs & Edge Delivery: chapters 1 to 9
-- [ ] Day 18 · Wed Nov 11 · 1 hr · Queues & Background Processing: chapters 1 to 9
+- [X] Day 17 · Tue Nov 10 · 1 hr · CDNs & Edge Delivery: chapters 1 to 9
+- [X] Day 18 · Wed Nov 11 · 1 hr · Queues & Background Processing: chapters 1 to 9
 - [ ] Day 19 · Thu Nov 12 · 1 hr · Checkpoint: Design URL Shortener (20 min), then Design Notification Platform (22 min), then 15 min of notes
 - [ ] Day 20 · Fri Nov 13 · 1 hr · Caching: 4 labs
 - [ ] Day 21 · Sat Nov 14 · 2 hr · CDNs & Edge Delivery: 4 labs, then Queues & Background Processing: 4 labs
